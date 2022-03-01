@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Midsummer-moone. Or Lunacy-rampant. Being a character of Master Cheynell the arch visitor of Oxford, and mungrell-president of Saint John Baptist's Colledge. With a survey of the three renegado-fellowes Web, Inkersell and Lownds.</title>
+            <author>Winyard, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96717</idno>
+            <idno type="STC">Wing W3097</idno>
+            <idno type="STC">Thomason E455_11</idno>
+            <idno type="STC">ESTC R26054</idno>
+            <idno type="EEBO-CITATION">99872111</idno>
+            <idno type="PROQUEST">99872111</idno>
+            <idno type="VID">162030</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162030)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E455[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Midsummer-moone. Or Lunacy-rampant. Being a character of Master Cheynell the arch visitor of Oxford, and mungrell-president of Saint John Baptist's Colledge. With a survey of the three renegado-fellowes Web, Inkersell and Lownds.</title>
+                  <author>Winyard, Thomas.</author>
+                  <author>Cleveland, John, 1613-1658, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, an. Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Thomas Winyard. Formerly attributed by Wing to John Cleveland.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cheynell, Francis, 1608-1665 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162030:1" rendition="simple:additions"/>
+            <p>Midſummer-Moone.</p>
+            <p>OR LVNACY-RAMPANT.</p>
+            <p>BEING A Character of Maſter <hi>Cheynell</hi> the Arch Viſitor of <hi>Oxford,</hi> and Mungrell-<hi>Pre<g ref="char:EOLhyphen"/>ſident</hi> of Saint <hi>John</hi> Baptiſt's Colledge.</p>
+            <p>With a Survey of the three Renegado-fellowes <hi>Web, Inkerſell</hi> and <hi>Lownds.</hi>
+            </p>
+            <q xml:lang="lat">Jam Seges eſt ubi Troja fuit.</q>
+            <p>
+               <add>July 29</add> Printed, <hi>An. Dom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162030:2"/>
+            <pb n="1" facs="tcp:162030:2"/>
+            <p>
+               <hi>CHEYNEL</hi> is <hi>Bedlam</hi> ſeven ſtories high, or Sir <hi>Thomas</hi> his gowty leg wire-drawn: His head is ſhot up, as if it would only converſe with the Prince oth'aire, and what we miſtake for the man ith'moon is but a peece of him. Hee's an <hi>Index expurgatorius</hi> in the largeſt folio, or was intended for hoopes for the tun at <hi>Heidelberg;</hi> you may take him for the 119 <hi>Pſalm,</hi> laſting the execution of a whol Univerſitie, or the Pinacle from which the Devill would break the neck of it. 'Tis a ſufficient argument of <hi>Cromwells</hi> death to ſee this May-pole ſet up in Oxford. <hi>Dido,</hi> with his hide, might have had ground enough for her Carthage without ſlicing it into leaſhes. Hee's a monopoly of Steeples, and as often as he ſounds, the bell goes out for ſome deceas't Scholar. Babels are erected for confuſion.</p>
+            <p>His red Noſe is pearch't like a Beacon flaming on a mountain; Nature when ſhe forged it, forgot to quench it: <hi>Web</hi> ſurrendred to it for a flag of defiance; <hi>Inkerſell</hi> for a red Lattice, and only ſubmitted to an Ale-houſe. The Scarlet-whore of Babylon ſpawn'd it with her menſtruous profluviums. 'Twas painted with the blood of a witch when ſhee morgag'd her ſelfe. The ſingle ſight of it made <hi>Sedgewick</hi> dream of doomes-day and the ſecond deſtruction of the world by fire. Such veſſels are broach't when Villanes ratifie their Conſpiracies in Sacraments of Blood. If there bee ſuch an <hi>Aetna</hi> ſuch a <hi>Purgatory</hi> aloofe, what's the <hi>De<g ref="char:EOLhyphen"/>mogorgon</hi> the Hell ith' Center?</p>
+            <p>The ſpirits which aſcend from ſo hot a Limbeck have conver<g ref="char:EOLhyphen"/>ted his braines to Sulphur, and made him nothing but an unruly Squib: Hee's as prodigiouſly furious, as if he had been bolted out oth' Monks pot when he invented gunpowder, or his mother limed by the Devill ſhot from a Canon. He was begot ith' Dog<g ref="char:EOLhyphen"/>dayes, or at Michaelmas when his Dam went to Rut. The <hi>He<g ref="char:EOLhyphen"/>cuba</hi> when ſhe conceiv'd this <hi>Paris</hi> dream't of wild-fire: His Nurſe was a bleare ey'd Hound, <hi>Run-wood,</hi> and his native ſoyle th' <hi>Antipodes</hi> to <hi>Anticyra.</hi> His Syre engendred him in an Itch beyond the cure oth' brimſtone which ruin'd Sodom. You may take him for a Spaniſh-Jennet, begot by a whirlewind or a tem<g ref="char:EOLhyphen"/>peſt raiſed by a Conjurer, or all <hi>Aeolus</hi> bag'd up and ſold by a Lap<g ref="char:EOLhyphen"/>lander
+<pb n="2" facs="tcp:162030:3"/>for ſhipwracks; he ruminates on nothing but his <hi>Saliſbu<g ref="char:EOLhyphen"/>ry</hi> Chaines, and his breaking looſe from 'em, and therefore 'tis his continuall buſineſſe either to impriſon or expell. Yet <hi>Mahomets</hi> diſeaſe muſt be a divine rapture; in his paralytick fit, he conver<g ref="char:EOLhyphen"/>ſes with his <hi>Gabriell.</hi> Shuffle him with the reſt oth' viſitors, and hee comes forth like mad <hi>Oreſtes</hi> ſwitchd on by furies to kill his mother the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity.</hi> Brutiſh <hi>Ajax</hi> becauſe hee's a beaſt him<g ref="char:EOLhyphen"/>ſelfe wallowes i'th gore of his fellow Greekes and thinkes 'em ſwine. The Caniball ſwears Mumie's Bacon: he differs from an ordinary <hi>Tom</hi> of <hi>Bedlam,</hi> as a wild <hi>Wolfe</hi> from a tame one, or Rome on fire from <hi>Neroes</hi> Fiddle. Sure hee's don quickſotted, takes the Colledge for an inchanted Caſtle, the fellowes for Gi<g ref="char:EOLhyphen"/>ants <hi>Web, Inkerſell,</hi> and <hi>Lownds,</hi> for three diſtreſſed damſells. Hee ſweepes the houſe cleane that his Fairy tennants may dance to him with mony, his phrenſy flames higher becauſe 'tis ſprinkled with a little reaſon, as woemen paint themſelves into wrincles and uglineſſe. His blood rides the round poſt, or dances the Morrice through him, and ſo makes him giddy. His skull is a meer neſt of hornets, which ſting into him their own waſpiſhneſſe. This makes the mad bandog ſnap at all hee meets. This new Judge (without the Kings writ) is the prime Bencher at con<g ref="char:EOLhyphen"/>demnation but uſually removed at the execution, and kills with his weekely bill as ſecretly as the Plague: Still like a mad dog which (they ſay) never barkes. Hee wounds at farther diſtance than the ſtarres influence can bleſſe: this long boared murdering peece will carry deſtruction point blank from <hi>Petworth</hi> to <hi>Ox<g ref="char:EOLhyphen"/>ford. Cheynell</hi> in a Univerſity out rifles <hi>Cromwell</hi> in an Abby. The Divill is buſieſt ith' Church. Pickhatch nere was viſited; Turne-Bull-Streete needs no reformation.</p>
+            <p>
+               <hi>Cheynell</hi> among the viſitors, is a mountebanke extroardinary with 4 zanyes, or bluſtring <hi>Aeolus</hi> with his Cardinall winds. This purger is the only ſcammony; the reſt ſomewhat milder ſimples, <hi>Rhubarbe</hi> and <hi>Sena,</hi> one indeed is all hony and manna dropt from heaven, but kept till 'tis mouldy and ſtinkes. This Sugar-Cane, this Poſſet, and Cawdle viſitor; with his marmu<g ref="char:EOLhyphen"/>lade quagmire, his blather'd puffe-paſt, liquoriſh <hi>Kate Subs</hi> the ſecond, are the Univerſities tooth drawers, and will leave no more Schollars then themſelves have gummes. Theſe Figs and Almonds rot the Univerſitie, while <hi>Cheynell</hi> like <hi>aqua fortis</hi> cor<g ref="char:EOLhyphen"/>rodes it. And yet that Cormorant can bee dainty too: Doctors
+<pb n="3" facs="tcp:162030:3"/>and Seniors are too tough for continuall cramming, he muſt have Bat<g ref="char:EOLhyphen"/>chellers of art and Rabets, under-graduats and Chickens; maſter com<g ref="char:EOLhyphen"/>moners and Pheſants. <hi>Domitian</hi> gorg'd with men, wantons with flies afterwards. He runs himſelfe off his legs the firſt daies journey, and like a Brewer tuns once a weeke. Though he rides poſt yet he muſt have his ſtages: the diſmalleſt Tragedy is cantell'd into Acts, ſure he hath got the mathematicall trick to make ſo many Turkes, and then by his hocus pocus Arithmetick, juggle them over board; yet the viſitors like their harbinger the laſt new diſeaſe, murder the beſt. Among <hi>Moores</hi> blacks are the only beauties: <hi>Cheynell</hi> good Church-man (like Alters) protects the guilty only; hee thinkes others breath corrupted when 'tis but the re<g ref="char:EOLhyphen"/>flected rancour of his own; like <hi>Senecaes</hi> wifes foole, ſtruck with a ſod<g ref="char:EOLhyphen"/>daine blindneſſe, imputed it to the darkeneſſe of the roome: You would ſcarce believe he ſhould have any Proſelites but that ſome have wor<g ref="char:EOLhyphen"/>ſhipt <hi>Cacodemons;</hi> and Aſſes yet kneele to <hi>Mahomet:</hi> Durt will ſubmit to bee trampled on; good ingenious ſoules confeſſe themſelves ſuffici<g ref="char:EOLhyphen"/>ently vicious &amp; are thought worthy heaven becauſe they boaſt no merit. But <hi>Cheynell</hi> admits them as Politicians do Jewes to uſe their villanies, or <hi>Romulus</hi> his Aſylum Courtiers to Lord over them; elſe why ſhould the Muſcovite worſhip painted images and reject carv'd ones? why ſhould my Lady expoſe her child and nurſe her dog, bee divorc't from her Lord, and wanton with her Catamite Monkey? But alas a ſlip may breake a ſober mans neck, while drunkards tumble and have no hurt. A privy-councellor is ſcarce ſecure in his dreame: My Lord of <hi>Pem<g ref="char:EOLhyphen"/>brooke</hi> and <hi>Archy</hi> can never ſpeake Treaſon. Ugly cubs are moſt lick't, and the Changling's ſtill the dilling: In Martyrdomes the beſt muſt to the ſtake; and who ſo fit to bee Pilgrims as the holy? if their bee any left in the hive it will be the drones; <hi>Cheynells</hi> thirſt draines the liquour, the lees would choake him. Thus of <hi>Theophraſtus</hi> characters, the vices only ſurvive, the vertues are expelld the world.</p>
+            <p>
+               <hi>Cheynell</hi> and Doctor <hi>Baily</hi> differ as the Colledge good and bad jeni<g ref="char:EOLhyphen"/>ous, as a wiſard and a prophet, or the dipt horſe in Cornewall and a Chriſtian. Hee ſucceeds the Doctor as <hi>Caligula's</hi> horſe did the deceaſed Senatour, or as the Apocrypha doth the old Teſtament, and <hi>Tobie</hi> and his dog, <hi>Moſes</hi> and <hi>Aaron;</hi> thus Innocents day purſues <hi>Chriſtmas,</hi> a damnd maſſacre at the heeles of a bleſt nativity; nor can <hi>Herod</hi> perſe<g ref="char:EOLhyphen"/>cute innocence without murthering St. <hi>John's,</hi> every meale hee carves the Preſident, at every courſe the Baptiſts head is diſh't for him, and yet (unleſſe the Merchant-taylors prove almoners) perhaps hee may bee de<g ref="char:EOLhyphen"/>vourd by his Colledgiate vermine.</p>
+            <pb n="4" facs="tcp:162030:4"/>
+            <p> Saint <hi>Johns</hi> lookes like <hi>Scevaes</hi> ſheild, ſo many expel'd peeces ſo many wounds 'tis reformd into it's primitive purity and turnd into the Bap<g ref="char:EOLhyphen"/>tiſts deſart: The whole Univerſity reſembles Greece over-run by Turkes, or Italy Goth'd and Vandald, it lookes like the world purged by a deluge, and deſtruction. <hi>Delos</hi> is turnd errant at <hi>Apolloes</hi> death, as it was at his birth. Colledges are converted into Hoſpitalls, lodges for diſeaſes, ſcall'd heads and crutches, 'tis the only expulſive crime heere to bee wholeſome.</p>
+            <p>For how ſhould <hi>Cheynell</hi> be a reformer, unleſſe as an Atheiſt makes a Pope pious? as winter brings the Halcyon, or dead beere makes <hi>Aqua vitae:</hi> Hee is a ſtrainer, retaines all the dreggs, and clarifies the Univerſity as milke and whites of eggs doth Ippocras; thus ſinkes, and common ſhoares are the beſt ſcavengers, durt is ſomtimes a good fuller, and filthy Soap the only Lawndreſſe, miraculous <hi>Cheynell!</hi> Clay and Spittle ſhall bee a collyrium for the Kingdomes eye.</p>
+            <p>Hee hath ſullyed the Univerſity and will huckſter in waſhing it; the mountebank gives out it is poyſoned, that hee may quack in curing it. Thus <hi>Oxford,</hi> like the houſe of office at Weſtminſter, is voted to bee re<g ref="char:EOLhyphen"/>formed by thoſe who fould it.</p>
+            <p>But perhaps man muſt ſtill forfeit paradiſe for too much knowledge; and Scholars periſh (like the old Biſhop) for diſcerning the viſitors to be Truth's and the Law's Antipodes. Is the Univerſity <hi>Pim'd,</hi> and ther<g ref="char:EOLhyphen"/>fore muſt change ſhifts, or are men turnd out (like the Iſraelites out of Egipt) for being ſcabby? Becauſe <hi>Cheynell</hi> itches, muſt all ſmart? The Pope excommunicates the King of <hi>Spaine</hi> on one day, and reſtores him the next, <hi>Cheynell</hi> hath his Maundy Thurſday, but the good-Friday's Popery. Extremes may concenter, <hi>Rolfe</hi> and a <hi>Jeſuite</hi> are both <hi>Ravi<g ref="char:EOLhyphen"/>lacks; Cheynell</hi> and Captaine <hi>Allen</hi> (his blaſphemous adverſaries ſecond) can covenant in miſchifes, as humiliations and thankſ-givings conſpire to ruine the Kingdome, or Naſeby field and the Butchers dog to worry <hi>Skippon.</hi> But hee would have us miſtake a hang-man for an Angell, and kiſſe his lightning, becauſe it comes from Heaven. Indeede hee goes to Church but (like the Divill) 'tis to tempt: each prayer devours a widdowed Colledge, each bead piſtolls a Schollar: hee never preaches but 'tis the Univerſities funerall Sermon, his doctrines and motives are meere proſcriptions, and hee'l murder a whole Colledge with a uſe of conſolation; his reformation hath got him more then the worke of 10 talents got <hi>Ariſtotle,</hi> this one word hath coſt more then would have purchaſed the Sibills bookes and Prophet too. Beggers ſell their ulcers at the rate of Diamonds; but though hee excommunicates, it muſt
+<pb n="5" facs="tcp:162030:4"/>bee ſtill the Pope and his holineſſe: 'Tis his faith removes the Univerſity, as the publique faith the ſilver mountaines of Guild-hall, and <hi>Xerxes</hi> leveld <hi>Athos</hi> through the worlds credulitie. But this Kennell-raker, this Jaqueſ<g ref="char:EOLhyphen"/>farmer is durty only on weeke-dayes. O the Sanctity of a ſunday pudding! And yet perhaps the Sabaticall river is no better then prophane Iſis. Turks have their Saboth, and not only a monthly faſt, but a faſt for a moneth. But <hi>Cheynell</hi> is a double Turke; Captaine <hi>Preſtor Franck</hi> is both Muftie and Aga too.</p>
+            <p>Thus is <hi>Oxford</hi> at laſt reform'd into an <hi>Algeers</hi> haunted by Pirates, where Janizaries are the only favorites: What to others is an inquiſition, is to theſe a ſhrift. Theſe are the only converts, becauſe the only ſinners: Some are expell'd for juſt oathes, others are dandled for lowd perjurie; like the Prieſt that loſt his benefice for having a wife, and was retrived when ſhee was proved his whore. But <hi>Cheynell</hi> (like <hi>Romulus</hi>) is the ſonne of heaven; when no man will own the brat, a God muſt father it. Hee's a libell and an ordinance; hath never a Sire, and yet perhaps a hundred: His mother ſure hacknied herſelfe to one of the guard, or the great porter on a maske night, and ſo conceiv'd this hipocrite: Had hee kept within his pulpit the lower part of the Minotaure might have skulkt undiſcovered, but when hee would bee a baſtard preſident too, a <hi>Perkin Warbeck</hi> Doctor <hi>Baylie</hi> (like <hi>Alexander,</hi> ambitious to bee a God) hee proved himſelfe a by-blow.</p>
+            <p>
+               <hi>Cheynell,</hi> with his precious Triumvirats <hi>Web, Inkerſell</hi> and <hi>Lownds,</hi> thinks himſelf the Emperor with his three ſpirituall Electors, or the Pope with his triple Crown; Hee lookes like wilde <hi>March</hi> borrowing three dayes of <hi>February.</hi> Theſe are forſooth the 3 children (or <hi>Plutoes</hi> 3 furies) whom no flames can bliſter. All 3 are oth' progeny of <hi>Noah,</hi> drunke: Their mo<g ref="char:EOLhyphen"/>thers longed for wort, they were borne in a brew-houſe, and chriſtned in a Stand of Ale. They are only 3 Sponges poſſeſt, and ſubmit to the upper and lower houſes, as repreſentatives of the Buttery and Seller. Certainly they are entertaind for Goſpellers, becauſe they have drunke away their Bibles. I might as well ſay <hi>Inkerſell</hi> were a Nightingale, becauſe hee hath loſt his tongue. Moths and Wormes are acquainted with more Authors, and Parrots are better linguiſts. Latin's not the language of theſe Beaſts, nor have they any thing of <hi>Greece,</hi> but drunkenneſſe and lying. Hebrew to them is Welch, they reele ſufficiently of themſelves, they need not ſtudy to go backward. Their Soules are blankes ſufficient to write new mod'led Preachers in. <hi>Tireſias</hi> could not foreſee any thing til he was blind.</p>
+            <p>
+               <hi>Inkerſell</hi> has one property of a Scholar, Poverty. You would take him for country-<hi>Tom</hi> broke looſe from the Gallowes. If a man bee a Tree in<g ref="char:EOLhyphen"/>verſed, hee's Beggars-buſh. He was borne in Lent at a courſing, and ſent
+<pb n="6" facs="tcp:162030:5"/>into the world with ſippets. Hee's ſunke below the wardrobe of dunghills, and the uſe of paper-mills. He muſt tick with <hi>Charon,</hi> and have his Epitaph writ in chalk. By his maggot-eaten face, you would ſwear he had been ray<g ref="char:EOLhyphen"/>ſed out on's grave with all his worms about him to bait Eele-hookes. You may compare <hi>Cheynell</hi> to the Chymiſts <hi>aqua Stygia,</hi> and him to their <hi>ter<g ref="char:EOLhyphen"/>ra damnata.</hi> Hee'l ſhortly be a Baptiſt without a voice, and wheaſes alrea<g ref="char:EOLhyphen"/>dy as if he fed on nothing but Locuſts and Graſhoppers.</p>
+            <p>
+               <hi>Cheynell</hi> and <hi>Web</hi> looke like <hi>Mahomet</hi> and his Pigeon, or my Lord of <hi>Pembrooke,</hi> and <hi>Michaell Oldſworth.</hi> Had every bird their feathers of him, he would be oth' ſame callow livery with <hi>Inkerſell:</hi> hee hates all bookes becauſe he is ſo much ith' mercers; and without a ſtrong antidote will die of gall and Coperas: hee's as much in Ink as <hi>Inkerſell</hi> in chalke, the one is all in mourning, the other is in his winding-ſheete: his brother &amp; he drink duells, yet both, like their thirſt, are ſtill immortall; though the Sea they have drunke would have made ſtage enough for the battle of <hi>Lepanto:</hi> Yet his brother may bee dead drunke at laſt, hee lookes like <hi>Tiffany</hi> already; brimſtone and hell will have him ſhortly, 'Tis fit the Souldier ſhould conquer eſpecially in bowſing combats: But our <hi>Mars</hi> muſt have his <hi>Venus,</hi> and his ſalt Nancy newly duck't lookes like the Sea-born goddeſſe. <hi>Cheynell</hi> cannot expell him farther then <hi>Bocardo,</hi> nor any Colledge ſo fit for him, as where <hi>Cheynell's</hi> Preſident, and who but thoſe Goale-birds were ever bribed to chriſten him ſo? What baſeneſſe would ſubmit to the ſcorne of Priſoners? Who would be ſlave to a penny ballad?</p>
+            <p>
+               <hi>Lownds</hi> ſubmitted to <hi>Cheynel's Sanguine promontory</hi> for feare of a bloody Noſe, he may be ſteered with any rudder: You may hang in a ſingle threed and uſe him inſtead of a bobin to weave Bone-lace: This rabbet ſucker would ſubmit to a ferret, and is ſcarce fit to bee a fellow of a Warren: hee would adore a reformer though hee were a Chimny-ſweeper, and goe bare to <hi>Pidgeon</hi> as willingly as to <hi>Cheynell:</hi> A well grown ſpider might bee his Preſident, <hi>Whittingtons</hi> Cat a Lord <hi>Mayor</hi> over him. Hee cannot go a high lone yet, but is carried on his fathersſleeve like a faulkoners Hawk; hee'll damme himſelfe leaſt hee ſhould bee whipt, and bee perjurd becauſe his father hath covenanted, like the fellow who would not bee a Chriſtian becauſe all his friends were gone to hell before him.</p>
+            <p>O that Lice ſhould bee humane off-ſprings as well as men! but the hap<g ref="char:EOLhyphen"/>pieſt mothers may have abortions. The Kings Image is ſometimes ſtampt on lead, and natures mint coynes monſters; as this Oſtraciſme proves the Univerſity a true Athens, ſo ſome Apaſtates makes her a Heaven.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
